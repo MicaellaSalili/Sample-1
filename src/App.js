@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <div className="centered-text" style={{ textAlign: 'left' }}>
         SAMPLE 1<br />
-        sample-1
+        Magbakasyon na tayo PLS
       </div>
     </div>
   );
