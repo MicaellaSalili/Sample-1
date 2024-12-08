@@ -1,0 +1,17 @@
+/* Set the background color and full-page layout */
+.App {
+  background-color: #8ACF00;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+/* Style for the centered text */
+.centered-text {
+  font-family: Arial, sans-serif;
+  font-size: 3rem;
+  color: black;
+  text-align: center;
+}
